@@ -3,10 +3,7 @@
 https://is1-ssl.mzstatic.com/image/thumb/Purple111/v4/2b/a4/62/2ba4620b-8049-4ea9-97ba-06f9792b8d70/pr_source.png/246x0w.jpg|webepg zoom=100 scroll=0,200
 
 
- #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.25 Safari/537.36
-#EXTVLCOPT:http-referrer=https://referrerlink.tv/channel/
- #EXTINF:-1 tvg-id="CSPAN-US" tvg-name="CSPAN-US" tvg-language="English" tvg-logo="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s10161_h3_aa.png" group-title="",C-Span https://skystreams-lh.akamaihd.net/i/SkyC1_1@500806/master.m3u8 #EXTINF:-1 tvg-id="CSPAN 2-US" tvg-name="CSPAN 2-US" tvg-language="English" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cspan2.png" group-title="",C-Span 2 https://skystreams-lh.akamaihd.net/i/SkyC2_1@500807/master.m3u8 #EXTINF:-1 tvg-id="CSPAN 3-US" tvg-name="CSPAN 3-US" tvg-language="English" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cspan3.png" group-title="",C-Span 3 https://skystreams-lh.akamaihd.net/i/SkyC3_1@500808/master.m3u8
-
+ 
 #EXTINF:-1 group-title="Documentary" tvg-id="2" tvg-logo="https://movietvtechgeeks.com/wp-content/uploads/2015/08/espn-earning-hatred-nfl-nba-2015-images.png" ,ESPN
 https://e7.cdn4.us/ingest666/espn_usa.m3u8
 #EXTVLCOPT:http-referrer=https://sportsbay.org/watch/43572/1/espn-usa-live.html
